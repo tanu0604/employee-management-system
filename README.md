@@ -20,7 +20,7 @@ A simple full-stack **Employee Management System** using **Spring Boot**, **MySQ
 
 ## 🛠 Tech Stack
 **Backend:** ⚙️ Spring Boot | MySQL | JPA | Spring Data REST  
-**Frontend:** 🎨 React | Axios | Tailwind CSS *(if used)*  
+**Frontend:** 🎨 React | Axios | Tailwind CSS
 **Database:** 🗄 MySQL  
 
 ---
